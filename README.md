@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack web development projects
 - 📫 How to reach me syokesh197@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i don't have job
+  
 
 <!---
 yokeshsusaimanickam/yokeshsusaimanickam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
